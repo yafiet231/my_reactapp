@@ -24,7 +24,7 @@ const imageAltText = "show riped red berries in a tree";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Leveraging a comprehensive curriculum at ALX Africa, I'm actively developing full-stack development skills with a focus on HTML, CSS, Java and Python.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'm actively developing full-stack development skills with a focus on HTML, CSS, and Java and Python.";
+  "Driven by a passion for back-end development using Python, Java, and C, I'm actively honing my full-stack development skills through the ALX Africa program. This program strengthens my foundation in HTML, CSS, and these back-end languages, allowing me to build user-friendly and robust web applications.";
 
 pen_spark
 ;
