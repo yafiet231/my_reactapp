@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/pics.js.jpg";
 
-const imageAltText = "Adult male This visual style is often used to create a specific atmosphere within VR";
+const imageAltText = "Adult male on vs, this visual style is often used to create a specific atmosphere within VR";
 
 const Home = ({ name, title }) => {
   return (
